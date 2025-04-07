@@ -159,7 +159,7 @@ Feel free to check [issues page](../../issues) or open a PR.
 
 If you liked this project, please consider starring the repo!
 
-[![Star this repo](https://img.shields.io/github/stars/popeye68/CodeMorpher.svg?style=social)](https://github.com/yourusername/CodeMorpher)
+[![Star this repo](https://img.shields.io/github/stars/popeye68/CodeMorpher.svg?style=social)](https://github.com/popeye68/CodeMorpher)
 
 ---
 
