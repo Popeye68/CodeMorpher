@@ -16,7 +16,7 @@
 ---
 
 ## 🔧 Features
-
+<a id="features"></a>
 - Obfuscates & deobfuscates code in multiple formats
 - Supports: JavaScript, Node.js, Python, PHP, HTML, CSS, JSON, XML
 - Base64-style custom obfuscation & deobfuscation
@@ -33,6 +33,7 @@
 ---
 
 ## 📜 Commands
+<a id="commands"></a>
 
 ```bash
 /start         → Welcome message + info
@@ -60,7 +61,7 @@
 ---
 
 ## ⚙️ Installation (Manual)
-
+<a id="installation"></a>
 ```bash
 git clone https://github.com/yourusername/CodeMorpher.git
 cd CodeMorpher
@@ -75,24 +76,24 @@ node index.js
 ---
 
 ## 🚀 Deploy Now
-
+<a id="deployment"></a>
 Deploy the bot easily on your favorite platform:
 
-### ▶️ Koyeb
+### 📍 Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/yourusername/CodeMorpher)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/popeye68/CodeMorpher)
 
-### ▶️ Railway
+### 📍 Railway
 
 [![Deploy on Railway](https://img.shields.io/badge/Deploy-Railway-000?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/new)
 
-### ▶️ Heroku
+### 📍 Heroku
 
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/CodeMorpher)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/popeye68/CodeMorpher)
 
-### ▶️ Replit
+### 📍 Replit
 
-[![Run on Replit](https://replit.com/badge/github/yourusername/CodeMorpher)](https://replit.com/github/yourusername/CodeMorpher)
+[![Run on Replit](https://replit.com/badge/github/yourusername/CodeMorpher)](https://replit.com/github/popeye68/CodeMorpher)
 
 ---
 
