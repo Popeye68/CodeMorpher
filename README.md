@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/botpic.png" alt="Bot Logo" width="180" height="180" style="border-radius: 50%;" />
+  <img src="https://raw.githubusercontent.com/popeye68/CodeMorpher/main/botpic.png" alt="Bot Logo" width="180" height="180" style="border-radius: 50%;" />
 </p>
 
 <h1 align="center">𝗖𝗼𝗱𝗲𝗠𝗼𝗿𝗽𝗵𝗲𝗿</h1>
@@ -158,7 +158,7 @@ Feel free to check [issues page](../../issues) or open a PR.
 
 If you liked this project, please consider starring the repo!
 
-[![Star this repo](https://img.shields.io/github/stars/yourusername/CodeMorpher.svg?style=social)](https://github.com/yourusername/CodeMorpher)
+[![Star this repo](https://img.shields.io/github/stars/popeye68/CodeMorpher.svg?style=social)](https://github.com/yourusername/CodeMorpher)
 
 ---
 
