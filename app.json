@@ -1,0 +1,20 @@
+{
+  "name": "CodeMorpher",
+  "description": "A Telegram bot to obfuscate and deobfuscate code in various languages securely.",
+  "repository": "https://github.com/popeye68/codemorpher",
+  "keywords": ["telegram", "bot", "obfuscation", "code", "javascript", "python"],
+  "env": {
+    "TOKEN": {
+      "description": "Telegram Bot Token",
+      "required": true
+    }
+  },
+  "scripts": {
+    "postdeploy": "node index.js"
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    }
+  ]
+}
